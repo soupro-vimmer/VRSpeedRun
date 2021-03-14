@@ -22,9 +22,9 @@ VRをプレイする上で、VR酔いとはどうしてもうまく付き合わ�
 
 ## デモ
 
-（表示されるまで少し時間がかかります…）
 
-![demo](https://media.githubusercontent.com/media/soupro-vimmer/VRSpeedRun/main/gif/vr.gif)
+![vr_optimize](https://user-images.githubusercontent.com/48953732/111071094-e81eb280-8517-11eb-87c8-243eaddecb9a.gif)
+
 
 ---
 
