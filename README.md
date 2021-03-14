@@ -22,7 +22,7 @@ VRをプレイする上で、VR酔いとはどうしてもうまく付き合わ�
 
 ## デモ
 
-#[demo](./gif/vr.gif)
+#[demo](https://github.com/soupro-vimmer/VRSpeedRun/./gif/vr.gif)
 
 ---
 
