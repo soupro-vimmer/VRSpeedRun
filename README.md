@@ -22,8 +22,9 @@ VRをプレイする上で、VR酔いとはどうしてもうまく付き合わ�
 
 ## デモ
 
+（表示されるまで少し時間がかかります…）
 
-![高フレームレート](https://media.githubusercontent.com/media/soupro-vimmer/VRSpeedRun/main/gif/vr.gif)
+![demo](https://media.githubusercontent.com/media/soupro-vimmer/VRSpeedRun/main/gif/vr.gif)
 
 ---
 
